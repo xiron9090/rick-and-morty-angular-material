@@ -1,6 +1,20 @@
-# RickAndMortyAngularMaterial
+# Rick And Morty Angular Material
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+This a example frontend for api [Rick and Morty ](https://rickandmortyapi.com/)
+
+[Demo]()
+
+## Features of the Application
+- Consumer API
+- List characters
+- List Episode
+- List Location
+- Pagination
+- Search
+## Features of Development
+- Lazy Loading
+- Material UI
+- Rxjs 
 
 ## Development server
 
