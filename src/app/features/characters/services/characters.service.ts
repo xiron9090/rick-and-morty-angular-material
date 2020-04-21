@@ -8,7 +8,7 @@ import { IBaseResponse, ICharacters } from '../models/characters.model';
   providedIn: 'root'
 })
 export class CharactersService {
-  baseUrl = 'http://localhost:8080/api';
+  baseUrl = 'https://rickandmortyapi.com/api';
 
   constructor(private http: HttpClient) {
 
