@@ -1,9 +1,0 @@
-h1{
-  text-transform: capitalize;
-}
-.toolbar{
-  position: fixed;
-  z-index: 1;
-  top: 0;
-
-}
